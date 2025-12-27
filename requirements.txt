@@ -14,4 +14,4 @@ streamlit
 twilio
 requests
 pyyaml
-ultralytics
+ultralytics==8.1.5
